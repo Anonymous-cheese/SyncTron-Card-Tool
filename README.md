@@ -31,12 +31,6 @@ The tool generates:
 - Windows 11
 - Python (for development builds)
 
-## Build
-
-To build the executable:
-
-build_windows_exe.bat
-
 ## Notes
 
 - Keep all card images consistent in aspect ratio
